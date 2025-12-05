@@ -470,12 +470,16 @@ ZHANG, Jingqing. **PEGASUS: Pre-training with Extracted Gap-sentences for Abstra
 
 ---
 
-## Autor
+## Autores
 
 **Trabalho de Conclusão de Curso**  
 Faculdade Anchieta  
 Curso: Ciência da Computação  
 Ano: 2025
+
+- **2204029 – Gabriel Cunha de Araujo**
+- **2205385 – Kelvin Pimenta Dias**
+- **2304805 – Renan Martins Rossi**
 
 ---
 
