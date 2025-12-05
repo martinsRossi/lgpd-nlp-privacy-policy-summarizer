@@ -6,18 +6,19 @@ echo "🔄 Atualizando modelo do classificador LGPD..."
 echo ""
 
 # Treinar nova versão
-python -m scripts.treinar_classificador_global --versao v2.1_fix_criancas
+python -m scripts.treinar_classificador_global --versao v2.2_fix_dataset
 
 # Copiar para o arquivo padrão
 echo ""
 echo "📦 Copiando modelo treinado..."
-cp models/classificador_lgpd_v2.1_fix_criancas.pkl models/classificador_lgpd.pkl
+cp models/classificador_lgpd_v2.2_fix_dataset.pkl models/classificador_lgpd.pkl
 
 echo ""
 echo "✅ Modelo atualizado com sucesso!"
 echo ""
 echo "📋 Correções nesta versão:"
+echo "   - Corrigido rótulo incorreto no dataset de treinamento"
+echo "   - Adicionados exemplos negativos para 'países' (internacional)"
 echo "   - Removida ambiguidade 'pais' vs 'país' na categoria crianças"
-echo "   - Melhor detecção de finalidades e compartilhamentos"
 echo ""
 echo "▶️  Execute 'streamlit run app.py' para usar a nova versão"
