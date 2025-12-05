@@ -390,25 +390,83 @@ Em **"Exportar"**, gere um pacote ZIP contendo:
 
 ## Referências
 
-1. BRASIL. **Lei nº 13.709, de 14 de agosto de 2018.** Lei Geral de Proteção de Dados Pessoais (LGPD). Diário Oficial da União, Brasília, DF, 15 ago. 2018.
+ALI, Asjad. **Understanding the NLP Pipeline: A Comprehensive Guide.** Medium, 1 jan. 2024. Disponível em: https://medium.com/@asjad_ali/understanding-the-nlp-pipeline-a-comprehensive-guide-828b2b3cd4e2. Acesso em: 2 out. 2025.
 
-2. MIHALCEA, R.; TARAU, P. **TextRank: Bringing Order into Texts.** In: CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), 2004, Barcelona. Proceedings... Barcelona: ACL, 2004. p. 404-411.
+BIRD, Steven et al. **Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit.** [S. l.: s. n.], 2009. Disponível em: https://tjzhifei.github.io/resources/NLTK.pdf. Acesso em: 2 out. 2025.
 
-3. RAFFEL, C. et al. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** Journal of Machine Learning Research, v. 21, n. 140, p. 1-67, 2020.
+BRASIL. **Lei nº 13.709, de 14 de agosto de 2018.** Dispõe sobre a proteção de dados pessoais e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Lei Geral de Proteção de Dados Pessoais (LGPD), Brasília, DF: Diário Oficial da União, 15 ago. 2018.
 
-4. LIN, C.-Y. **ROUGE: A Package for Automatic Evaluation of Summaries.** In: TEXT SUMMARIZATION BRANCHES OUT WORKSHOP, 2004, Barcelona. Proceedings... Barcelona: ACL, 2004. p. 74-81.
+BROWN, Tom B. et al. **Language Models are Few-Shot Learners.** ArXiv, 22 jul. 2020. Disponível em: https://arxiv.org/abs/2005.14165. Acesso em: 1 out. 2025.
 
-5. PAPINENI, K. et al. **BLEU: a Method for Automatic Evaluation of Machine Translation.** In: ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, 40., 2002, Philadelphia. Proceedings... Philadelphia: ACL, 2002. p. 311-318.
+CAMACHO-COLLADOS, Jose. **Embeddings in Natural Language Processing.** ACL Anthology, 2020. Disponível em: https://aclanthology.org/2020.coling-tutorials.2.pdf. Acesso em: 1 out. 2025.
 
-6. BIRD, S.; KLEIN, E.; LOPER, E. **Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit.** Sebastopol: O'Reilly Media, 2009.
+CAMBRIA, Erik et al. **Jumping NLP Curves: A Review of Natural Language Processing Research.** IEEE Computational Intelligence Magazine, 2014. Disponível em: https://sentic.net/jumping-nlp-curves.pdf. Acesso em: 2 out. 2025.
 
-7. HONNIBAL, M.; MONTANI, I. **spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing.** 2017. Disponível em: https://spacy.io. Acesso em: 2025.
+CHOMSKY, Noam. **Aspects of the Theory of Syntax.** [S. l.: s. n.], 1965. Disponível em: https://www.colinphillips.net/wp-content/uploads/2015/09/chomsky1965-ch1.pdf. Acesso em: 2 out. 2025.
 
-8. WOLF, T. et al. **Transformers: State-of-the-Art Natural Language Processing.** In: CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), 2020. Proceedings... Online: ACL, 2020. p. 38-45.
+DENG, Li et al. **Recent Trends in Deep Learning Based Natural Language Processing.** ArXiv, 9 ago. 2017. Disponível em: https://arxiv.org/pdf/1708.02709. Acesso em: 2 out. 2025.
 
-9. PEDREGOSA, F. et al. **Scikit-learn: Machine Learning in Python.** Journal of Machine Learning Research, v. 12, p. 2825-2830, 2011.
+DEVLIN, Jacob. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.** ArXiv, 24 maio 2020. Disponível em: https://arxiv.org/abs/1810.04805. Acesso em: 1 out. 2025.
 
-10. AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (ANPD). **Guia Orientativo para Definições dos Agentes de Tratamento de Dados Pessoais e do Encarregado.** Brasília: ANPD, 2021.
+DOSHI, Ketan. **Transformers Explained Visually (Part 1): Overview of Functionality.** Towards Data Science, 13 dez. 2020. Disponível em: https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452/. Acesso em: 30 set. 2025.
+
+ERKAN, Gunes et al. **LexRank: Graph-based Lexical Centrality as Salience in Text Summarization.** Journal of Artificial Intelligence Research, 1 dez. 2004. Disponível em: https://www.jair.org/index.php/jair/article/view/10396/. Acesso em: 11 nov. 2025.
+
+FLORIDI, Luciano et al. **GPT‑3: Its Nature, Scope, Limits, and Consequences.** Springer Nature Link, 1 nov. 2020. Disponível em: https://link.springer.com/article/10.1007/s11023-020-09548-1. Acesso em: 10 nov. 2025.
+
+FOOTE, Keith D. **A Brief History of Natural Language Processing.** Dataversity, 6 jul. 2023. Disponível em: https://www.dataversity.net/articles/a-brief-history-of-natural-language-processing-nlp/. Acesso em: 2 out. 2025.
+
+GAMBHIR, Mahak. **Recent automatic text summarization techniques: a survey.** Università degli Studi di Milano-Bicocca, 29 mar. 2016. Disponível em: https://elearning.unimib.it/pluginfile.php/1593406/mod_resource/content/1/Gambhir-Gupta2017_Article_RecentAutomaticTextSummarizati.pdf. Acesso em: 1 out. 2025.
+
+GONG, Yihong et al. **Generic text summarization using relevance measure and latent semantic analysis.** ACM Digital Library, 1 set. 2001. Disponível em: https://dl.acm.org/doi/10.1145/383952.383955. Acesso em: 11 nov. 2025.
+
+GOODFELLOW, Ian et al. **Deep Learning: An MIT Press book.** [S. l.], 2016. Disponível em: https://www.deeplearningbook.org/. Acesso em: 1 out. 2025.
+
+JURAFSKY, Dan et al. **Speech and Language Processing (3rd ed. draft).** [S. l.: s. n.], 2025. Disponível em: https://web.stanford.edu/~jurafsky/slp3/. Acesso em: 2 out. 2025.
+
+KHATTER, Kiran et al. **Natural language processing: state of the art, current trends and challenges.** ResearchGate, 2022. Disponível em: https://www.researchgate.net/publication/319164243_Natural_language_processing_state_of_the_art_current_trends_and_challenges. Acesso em: 2 out. 2025.
+
+LIN, Chin-Yew. **ROUGE: A Package for Automatic Evaluation of Summaries.** ACL Anthology, 2004. Disponível em: https://aclanthology.org/W04-1013/. Acesso em: 2 out. 2025.
+
+LIU, Yang. **Fine-tune BERT for Extractive Summarization.** ArXiv, 5 set. 2019. Disponível em: https://arxiv.org/abs/1903.10318. Acesso em: 1 out. 2025.
+
+MANNING, Christopher D. et al. **Foundations of Statistical Natural Language Processing.** The MIT Press, 1999. Disponível em: http://icog-labs.com/wp-content/uploads/2014/07/Christopher_D._Manning_Hinrich_Schütze_Foundations_Of_Statistical_Natural_Language_Processing.pdf. Acesso em: 2 out. 2025.
+
+MIHALCEA, Rada et al. **TextRank: Bringing Order into Texts.** ACL Anthology, 2004. Disponível em: https://aclanthology.org/W04-3252/. Acesso em: 11 nov. 2025.
+
+NASCIMENTO, Francileuza; BARROS, Milena; PINTO, Anderson. **A Proteção de Dados Pessoais e a LGPD no Brasil: Desafios e Perspectivas.** Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE, São Paulo, v. 10, n. 12, 2024. Disponível em: https://periodicorease.pro.br/rease/article/view/17628. Acesso em: 2 set. 2025.
+
+OBAR, Jonathan A.; OELDORF-HIRSCH, Anne. **The Biggest Lie on the Internet: Ignoring the Privacy Policies and Terms of Service Policies of Social Networking Services.** Information, Communication & Society, TPRC 44: The 44th Research Conference on Communication, Information and Internet Policy, 1 jun. 2018, p. 1–20. Disponível em: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757465. Acesso em: 2 set. 2025.
+
+**Privacy and Freedom.** Washington and Lee Law Review, vol. 25, n. 1, 1968. Disponível em: https://scholarlycommons.law.wlu.edu/wlulr/vol25/iss1/20/. Acesso em: 2 set. 2025.
+
+RADEV, Dragomir R. et al. **Centroid-based summarization of multiple documents.** Information Processing & Management (IPM), 2004. DOI: 10.1016/j.ipm.2003.10.006. Disponível em: https://scispace.com/pdf/centroid-based-summarization-of-multiple-documents-1gu2p7ixap.pdf. Acesso em: 11 nov. 2025.
+
+RADEV, Dragomir R. et al. **Centroid-based summarization of multiple documents: sentence extraction, utility-based evaluation, and user studies.** ACL Anthology, 2000. Disponível em: https://aclanthology.org/W00-0403/. Acesso em: 2 out. 2025.
+
+RADFORD, Alec et al. **Improving Language Understanding by Generative Pre-Training.** OpenAI, [20--?]. Disponível em: https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf. Acesso em: 1 out. 2025.
+
+RAFFEL, Colin et al. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** ArXiv, 19 set. 2023. Disponível em: https://arxiv.org/abs/1910.10683. Acesso em: 1 out. 2025.
+
+RIBEIRO PEREIRA, Felipe. **Utilização de Processamento de Linguagem Natural e Ontologias na Análise Qualitativa de Frases Curtas.** Novas Tecnologias na Educação, 3 dez. 2013. Disponível em: https://seer.ufrgs.br/index.php/renote/article/view/44431/28444. Acesso em: 2 out. 2025.
+
+SEE, Abigail et al. **Get To The Point: Summarization with Pointer-Generator Networks.** ACL Anthology, 2017. Disponível em: https://aclanthology.org/P17-1099/. Acesso em: 2 out. 2025.
+
+STRYKER, Cole et al. **What is NLP (natural language processing)?** IBM, [20--?]. Disponível em: https://www.ibm.com/think/topics/natural-language-processing. Acesso em: 2 out. 2025.
+
+**The Cost of Reading Privacy Policies.** I/S: A Journal of Law and Policy for the Information Society, 2008. Disponível em: https://www.is-journal.org/. Acesso em: 2 set. 2025.
+
+**The Right to Privacy.** Harvard Law Review, Vol. IV, 15 dez. 1890. Disponível em: https://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html. Acesso em: 2 set. 2025.
+
+VASWANI, Ashish. **Attention Is All You Need.** ArXiv, 2 ago. 2023. Disponível em: https://arxiv.org/abs/1706.03762. Acesso em: 1 out. 2025.
+
+**What is Natural Language Processing (NLP)?** AWS, [20--]. Disponível em: https://aws.amazon.com/what-is/nlp/. Acesso em: 2 out. 2025.
+
+WOLF, Thomas. **Transformers: State-of-the-Art Natural Language Processing.** ArXiv, 14 jul. 2020. Disponível em: https://arxiv.org/abs/1910.03771. Acesso em: 1 out. 2025.
+
+ZANATTA, Rafael A. F. **A Proteção Coletiva dos Dados Pessoais no Brasil: vetores de interpretação.** [S. l.: s. n.], 2023. Disponível em: https://www.dataprivacybr.org/wp-content/uploads/2025/05/2023.-ZANATTA-Rafael.-A-protecao-coletiva-dos-dados-pessoais-no-Brasil.pdf. Acesso em: 1 out. 2025.
+
+ZHANG, Jingqing. **PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization.** ArXiv, 10 jul. 2020. Disponível em: https://arxiv.org/pdf/1912.08777. Acesso em: 1 out. 2025.
 
 ---
 
