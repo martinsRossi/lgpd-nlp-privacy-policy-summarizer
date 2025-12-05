@@ -239,10 +239,10 @@ python -m spacy download pt_core_news_sm
 5. **Treine o modelo do classificador** (necessário na primeira instalação):
 ```bash
 # Linux/Mac
-./update_model.sh
+./scripts/update_model.sh
 
 # Windows PowerShell
-.\update_model.ps1
+.\scripts\update_model.ps1
 
 # Ou manualmente:
 python -m scripts.treinar_classificador_global --versao v2.1_fix_criancas
@@ -265,8 +265,8 @@ Para obter as últimas alterações do repositório:
 git pull origin main
 
 # Após atualizar, retreine o modelo:
-./update_model.sh  # Linux/Mac
-.\update_model.ps1  # Windows
+./scripts/update_model.sh  # Linux/Mac
+.\scripts\update_model.ps1  # Windows
 ```
 
 ### Treinamento do Modelo
