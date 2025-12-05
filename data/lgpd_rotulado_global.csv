@@ -194,7 +194,7 @@ Tomamos medidas para assegurar que países destinatários ofereçam nível adequ
 Você pode solicitar acesso aos seus dados a qualquer momento através do nosso portal.,direitos_titular,teste_empresa,2025-12-04T18:32:44.623944,v1.0
 Utilizamos cookies essenciais para garantir o funcionamento adequado do site.,cookies,teste_empresa,2025-12-04T18:32:44.623944,v1.0
 Seus dados serão armazenados em servidores seguros no Brasil.,armazenamento,teste_empresa,2025-12-04T18:32:44.623944,v1.0
-"A revogação do consentimento pode resultar na impossibilidade de uso de algumas funcionalidades do aplicativo, ou até mesmo no encerramento dos serviços prestados, mas não impede o uso de (i) dados anonimizados; e (ii) dados cujo tratamento esteja baseado em outra hipótese legal prevista na LGPD.",criancas,nubank,2025-12-04T18:57:21.600800,v1.0
+"A revogação do consentimento pode resultar na impossibilidade de uso de algumas funcionalidades do aplicativo, ou até mesmo no encerramento dos serviços prestados, mas não impede o uso de (i) dados anonimizados; e (ii) dados cujo tratamento esteja baseado em outra hipótese legal prevista na LGPD.",consentimento,nubank,2025-12-04T18:57:21.600800,v1.0
 "Portabilidade e direito de petição
 
 Quando regulamentado o direito de portabilidade pela Autoridade Nacional de Proteção de Dados (ANPD), você poderá solicitar ao Nu a portabilidade dos seus dados pessoais a outro prestador de serviços.",direitos_titular,nubank,2025-12-04T18:57:21.600800,v1.0
@@ -210,6 +210,13 @@ Quando regulamentado o direito de portabilidade pela Autoridade Nacional de Prot
 "As leis brasileiras de privacidade e proteção de dados pessoais asseguram a você, titular de dados pessoais, uma série de garantias que o colocam no controle das informações que você nos fornece.",direitos_titular,dexco,2025-12-05T17:07:24.919230,v1.0
 "este direito permite que o titular de dados requisite e receba uma confirmação sobre a existência de coleta, armazenamento, compartilhamento ou qualquer tipo de tratamento a partir de seus dados; este direito permite que o titular de dados requisite e receba uma cópia gratuita e em formato acessível dos dados tratados; este direito permite que o titular de dados requisite a retificação de seus dados; este direito permite que o titular de dados requisite a anonimização, o bloqueio ou a eliminação dos dados da base da Dexco.",direitos_titular,dexco,2025-12-05T17:07:24.919230,v1.0
 "Esta Política de Privacidade se aplica a todos os nossos aparelhos e serviços da Samsung, de telefones celulares e tablets a TVs, aparelhos domésticos, serviços on-line e outros, coletivamente chamados de Serviços.",finalidade,samsung,2025-12-05T17:50:15.542262,v1.0
+Transferimos dados apenas para países com proteção adequada de dados pessoais.,internacional,diversos,2025-01-01T00:00:00,v1.0
+A adequação do país de destino é verificada antes de qualquer transferência internacional.,internacional,diversos,2025-01-01T00:00:00,v1.0
+Seus dados podem ser transferidos para outros países que ofereçam proteção adequada.,internacional,diversos,2025-01-01T00:00:00,v1.0
+Se você não deseja que suas informações sejam processadas em outros países entre em contato.,internacional,diversos,2025-01-01T00:00:00,v1.0
+Você pode revogar seu consentimento a qualquer momento através das configurações da conta.,consentimento,diversos,2025-01-01T00:00:00,v1.0
+O consentimento deve ser livre informado e inequívoco para coleta de dados.,consentimento,diversos,2025-01-01T00:00:00,v1.0
+A retirada do consentimento não afeta tratamentos realizados anteriormente.,consentimento,diversos,2025-01-01T00:00:00,v1.0
 "Se você solicitar um produto ou se conectar ao nosso serviço, poderemos coletar seu nome, endereço, informações de contato, informação de localização, identificador do aparelho e informações de envio e pagamento para processar seu pedido.",coleta_dados,samsung,2025-12-05T17:50:15.542262,v1.0
 "Para fornecer respostas quando você contatar o Suporte ao Cliente, poderemos precisar de informações para verificar sua identidade e o produto sobre o qual você está consultando.",coleta_dados,samsung,2025-12-05T17:50:15.542262,v1.0
 "Informações de voz: gravações da sua voz que nós fazemos e armazenamos em nossos servidores quando você ativa esta função e usa comandos de voz para controlar um Serviço, ou quando você entra em contato com nosso time de Suporte ao Cliente.",coleta_dados,samsung,2025-12-05T17:50:15.542262,v1.0

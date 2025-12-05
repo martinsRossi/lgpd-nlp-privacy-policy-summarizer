@@ -1,0 +1,71 @@
+{
+  "versao": "v2.2_fix_dataset",
+  "data_treinamento": "2025-12-05T19:05:10.022052",
+  "num_exemplos_total": 219,
+  "num_empresas": 6,
+  "empresas": [
+    "diversos",
+    "teste_empresa",
+    "nubank",
+    "deca",
+    "dexco",
+    "samsung"
+  ],
+  "num_categorias": 13,
+  "categorias": [
+    "coleta_dados",
+    "finalidade",
+    "compartilhamento",
+    "armazenamento",
+    "seguranca",
+    "direitos_titular",
+    "cookies",
+    "internacional",
+    "criancas",
+    "contato",
+    "alteracoes",
+    "outros"
+  ],
+  "acuracia_treino": 0.9828571428571429,
+  "acuracia_teste": 0.7727272727272727,
+  "cv_mean": 0.7212473572938689,
+  "cv_std": 0.05754704832208214,
+  "cv_scores": [
+    0.7045454545454546,
+    0.6590909090909091,
+    0.75,
+    0.8181818181818182,
+    0.6744186046511628
+  ],
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "algoritmo": "logistic",
+  "hyperparametros": {
+    "max_features_tfidf": 5000,
+    "ngram_range": "(1,2)",
+    "random_state": 42
+  },
+  "distribuicao_categorias": {
+    "direitos_titular": 26,
+    "finalidade": 23,
+    "coleta_dados": 23,
+    "internacional": 19,
+    "criancas": 19,
+    "compartilhamento": 18,
+    "armazenamento": 16,
+    "contato": 16,
+    "cookies": 15,
+    "alteracoes": 15,
+    "seguranca": 13,
+    "outros": 12,
+    "consentimento": 4
+  },
+  "distribuicao_empresas": {
+    "diversos": 199,
+    "dexco": 5,
+    "deca": 4,
+    "nubank": 4,
+    "samsung": 4,
+    "teste_empresa": 3
+  }
+}
