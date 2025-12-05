@@ -144,7 +144,7 @@ class GoldStandardLGPD:
             titulo="Dados de Crianças e Adolescentes",
             descricao="Tratamento de dados de crianças deve ser realizado com consentimento específico dos pais/responsáveis.",
             artigo_lei="Art. 14",
-            palavras_chave=["crianças", "menores", "adolescentes", "responsável legal", "pais"],
+            palavras_chave=["criança", "crianças", "menor", "menores", "adolescente", "adolescentes", "responsável legal", "responsáveis legais", "consentimento dos pais", "autorização dos pais"],
             obrigatorio=False,
             peso=2.0
         ))
