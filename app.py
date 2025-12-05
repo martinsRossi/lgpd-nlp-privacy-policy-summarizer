@@ -442,9 +442,12 @@ def classificar_lgpd():
             if caminho_modelo.exists() and usar_modelo:
                 try:
                     classificador.carregar_modelo(caminho_modelo)
-                    st.info(" Usando modelo treinado")
-                except:
-                    st.warning(" Usando classificação por regras")
+                    st.info("✅ Usando modelo treinado")
+                except Exception as e:
+                    st.error(f"❌ Erro ao carregar modelo: {e}")
+                    st.warning("⚠️ Usando classificação por regras")
+            elif usar_modelo:
+                st.warning("⚠️ Modelo não encontrado - Usando classificação por regras")
             
             df_classificado = classificador.classificar_sentencas(sentencas)
             st.session_state.resultados['classificacao'] = df_classificado
