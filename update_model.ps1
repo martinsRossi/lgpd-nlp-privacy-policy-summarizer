@@ -1,0 +1,22 @@
+# Script para atualizar o modelo do classificador LGPD
+# Execute este script após fazer git pull para obter a versão mais recente
+
+Write-Host "🔄 Atualizando modelo do classificador LGPD..." -ForegroundColor Cyan
+Write-Host ""
+
+# Treinar nova versão
+python -m scripts.treinar_classificador_global --versao v2.1_fix_criancas
+
+# Copiar para o arquivo padrão
+Write-Host ""
+Write-Host "📦 Copiando modelo treinado..." -ForegroundColor Yellow
+Copy-Item models\classificador_lgpd_v2.1_fix_criancas.pkl models\classificador_lgpd.pkl
+
+Write-Host ""
+Write-Host "✅ Modelo atualizado com sucesso!" -ForegroundColor Green
+Write-Host ""
+Write-Host "📋 Correções nesta versão:" -ForegroundColor White
+Write-Host "   - Removida ambiguidade 'pais' vs 'país' na categoria crianças"
+Write-Host "   - Melhor detecção de finalidades e compartilhamentos"
+Write-Host ""
+Write-Host "▶️  Execute 'streamlit run app.py' para usar a nova versão" -ForegroundColor Cyan
