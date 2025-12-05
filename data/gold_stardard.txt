@@ -1,0 +1,129 @@
+POLÍTICA DE PRIVACIDADE – MODELO ALINHADO À LGPD
+
+Esta Política de Privacidade tem por objetivo informar de forma clara, transparente e objetiva como [NOME DA EMPRESA] realiza o tratamento de dados pessoais, em conformidade com a Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (“LGPD”). Ao utilizar nossos serviços, aplicações, sites ou canais de atendimento, o titular declara estar ciente de que seus dados pessoais poderão ser tratados nos termos aqui descritos.
+
+1. Conceitos básicos e fundamentos
+
+Para fins desta Política, consideram-se:
+
+Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
+
+Dado pessoal sensível: dado sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.
+
+Controlador: [NOME DA EMPRESA], responsável pelas decisões referentes ao tratamento de dados pessoais.
+
+Operador: pessoa natural ou jurídica que realiza o tratamento de dados pessoais em nome do controlador.
+
+Titular: pessoa natural a quem se referem os dados pessoais objeto de tratamento.
+
+Tratamento: toda operação realizada com dados pessoais, como coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação, controle, modificação, comunicação, transferência, difusão ou extração.
+
+O tratamento de dados pessoais realizado por [NOME DA EMPRESA] observa os princípios da finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação, responsabilização e prestação de contas, nos termos do art. 6º da LGPD, bem como os fundamentos previstos no art. 2º, tais como o respeito à privacidade, a autodeterminação informativa e o livre desenvolvimento da personalidade.
+
+2. Quais dados pessoais coletamos
+
+[Nome da Empresa] poderá coletar e tratar, de forma direta ou indireta, os seguintes dados pessoais, de acordo com o contexto da relação com o titular:
+
+Dados de identificação: nome completo, CPF, RG ou documento equivalente, data de nascimento, nacionalidade, estado civil.
+
+Dados de contato: endereço residencial ou comercial, e-mail, número de telefone fixo e celular.
+
+Dados de navegação e uso de serviços digitais: endereço IP, identificadores de dispositivo, logs de acesso, data e hora de ações realizadas nos nossos canais, informações de cookies e tecnologias semelhantes, páginas acessadas e interações efetuadas.
+
+Dados de pagamento e transações: dados bancários tokenizados, histórico de pagamentos, valores transacionados, datas de operações e forma de pagamento utilizada.
+
+Dados profissionais e de relacionamento: cargo, empresa, histórico de interação com nossos serviços, registros de atendimentos e comunicações.
+
+Dados sensíveis, quando estritamente necessários: informações de saúde, biometria ou outras categorias sensíveis, sempre em hipóteses específicas previstas em lei e com proteção reforçada.
+
+Quando estritamente necessário para a prestação de serviços, poderemos ainda tratar dados pessoais de terceiros fornecidos pelo titular (como dependentes, representantes legais ou procuradores), presumindo que o titular possui autorização para compartilhá-los.
+
+3. Finalidades e bases legais do tratamento
+
+Os dados pessoais são tratados para finalidades legítimas, específicas e informadas ao titular, com base nas hipóteses legais previstas nos arts. 7º e 11 da LGPD. Entre as principais finalidades, destacam-se:
+
+Execução de contrato ou de procedimentos preliminares: cadastro de usuários, prestação de serviços contratados, atendimento a solicitações, suporte técnico, faturamento, cobrança e gestão de relacionamento.
+
+Cumprimento de obrigação legal ou regulatória: guarda de registros de acesso, emissão de notas fiscais, atendimento a demandas de autoridades administrativas, fiscais ou judiciais.
+
+Legítimo interesse do controlador: melhoria de produtos e serviços, aperfeiçoamento da experiência do usuário, prevenção à fraude, segurança de rede e de informações, desde que respeitados os direitos e liberdades fundamentais do titular.
+
+Consentimento do titular: envio de comunicações de marketing, newsletters, ofertas personalizadas e utilização de determinados cookies não estritamente necessários, quando exigido pela legislação.
+
+Proteção da vida ou da incolumidade física do titular ou de terceiro, tutela da saúde e exercício regular de direitos: em situações específicas, nos termos da LGPD, especialmente quando for indispensável garantir a segurança, a integridade ou a defesa de direitos em processos administrativos, judiciais ou arbitrais.
+
+Sempre que o tratamento se basear em consentimento, este será coletado de forma livre, informada e inequívoca, para finalidades determinadas, sendo facultado ao titular revogá-lo a qualquer tempo, mediante canais adequados.
+
+4. Tratamento de dados pessoais sensíveis
+
+O tratamento de dados pessoais sensíveis será realizado apenas quando estritamente necessário e nas hipóteses autorizadas pela LGPD, tais como cumprimento de obrigação legal ou regulatória, exercício regular de direitos, proteção da vida ou da incolumidade física do titular ou de terceiro, tutela da saúde ou, quando aplicável, mediante consentimento específico e destacado. Em todos os casos, adotaremos medidas técnicas e organizacionais reforçadas para proteção desses dados, limitando o acesso somente a profissionais autorizados e devidamente instruídos.
+
+5. Tratamento de dados de crianças e adolescentes
+
+Quando houver tratamento de dados pessoais de crianças e adolescentes, este será conduzido sempre no melhor interesse do titular, em conformidade com o art. 14 da LGPD e legislação correlata. Nos casos que envolverem crianças, o tratamento dependerá de consentimento específico e em destaque de pelo menos um dos pais ou responsável legal, salvo hipóteses legais de dispensa. As informações sobre o tratamento serão apresentadas em linguagem clara, acessível e adequada, de modo a permitir a compreensão pelos responsáveis e, quando possível, pelos próprios menores.
+
+6. Compartilhamento de dados pessoais
+
+Os dados pessoais poderão ser compartilhados com terceiros apenas quando necessário e observado o princípio da necessidade, nas seguintes situações:
+
+Com operadores e prestadores de serviço que atuem em nome de [NOME DA EMPRESA], como provedores de infraestrutura tecnológica, meios de pagamento, serviços de atendimento, consultorias e empresas de auditoria, sempre mediante obrigações contratuais de confidencialidade e proteção de dados.
+
+Com autoridades públicas, órgãos reguladores ou entidades governamentais, para cumprimento de obrigações legais, regulatórias ou ordens judiciais.
+
+Com parceiros de negócio, em situações específicas e legítimas, devidamente informadas ao titular, respeitando as bases legais aplicáveis e, quando necessário, obtendo consentimento prévio.
+
+Em casos de operações societárias, como fusão, aquisição ou incorporação, hipótese em que a continuidade do tratamento seguirá os termos desta Política ou outra que a substitua, desde que igualmente compatível com a LGPD.
+
+Não realizaremos a comercialização de dados pessoais em desacordo com a legislação vigente, nem compartilharemos dados para finalidades incompatíveis com aquelas informadas ao titular.
+
+7. Transferência internacional de dados
+
+Quando houver transferência internacional de dados pessoais, [NOME DA EMPRESA] observará os requisitos previstos na LGPD, garantindo que o país de destino ou a organização internacional proporcione grau de proteção de dados pessoais adequado ou que existam garantias suficientes de cumprimento dos princípios, direitos do titular e regime de proteção previstos na lei, por meio de cláusulas contratuais, normas corporativas globais ou outros mecanismos reconhecidos pela autoridade competente.
+
+8. Prazo de armazenamento e término do tratamento
+
+Os dados pessoais serão armazenados apenas pelo tempo necessário ao cumprimento das finalidades para as quais foram coletados, ao cumprimento de obrigações legais ou regulatórias, ao exercício regular de direitos em processos administrativos, judiciais ou arbitrais ou conforme outras hipóteses autorizadas pela LGPD. Ao término do tratamento, os dados serão eliminados ou anonimizados, salvo nas hipóteses em que a conservação for permitida ou exigida por lei, conforme o art. 16 da LGPD.
+
+9. Direitos do titular de dados
+
+O titular de dados pessoais possui os direitos previstos nos arts. 17 a 20 da LGPD, podendo exercê-los a qualquer momento, mediante solicitação dirigida aos canais de atendimento indicados por [NOME DA EMPRESA]. Entre esses direitos, destacam-se:
+
+confirmação da existência de tratamento;
+
+acesso aos dados pessoais;
+
+correção de dados incompletos, inexatos ou desatualizados;
+
+anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a LGPD;
+
+portabilidade dos dados a outro fornecedor de serviço ou produto, observada a regulamentação aplicável;
+
+eliminação dos dados pessoais tratados com base no consentimento, ressalvadas as hipóteses de guarda autorizadas por lei;
+
+informação sobre as entidades públicas e privadas com as quais realizamos uso compartilhado de dados;
+
+informação sobre a possibilidade de não fornecer consentimento e sobre as consequências desta negativa;
+
+revogação do consentimento, quando esta for a base legal aplicável;
+
+revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, quando cabível.
+
+As solicitações serão analisadas e respondidas dentro de prazos razoáveis, em conformidade com a legislação vigente e considerando eventuais limitações técnicas ou legais.
+
+10. Cookies e tecnologias de rastreamento
+
+Poderemos utilizar cookies e tecnologias semelhantes para melhorar a experiência do usuário, personalizar conteúdo, analisar estatísticas de uso e viabilizar funcionalidades essenciais do serviço. Cookies estritamente necessários são utilizados para o funcionamento adequado do site ou aplicação, enquanto cookies de desempenho, funcionalidade ou marketing poderão ser utilizados mediante informação prévia e, quando exigido, consentimento do titular. O usuário poderá gerenciar as preferências de cookies por meio das configurações do navegador ou de ferramentas específicas disponibilizadas em nossos canais.
+
+11. Segurança da informação
+
+[Nome da Empresa] adota medidas técnicas e administrativas aptas a proteger os dados pessoais contra acessos não autorizados e contra situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito. Tais medidas incluem, entre outras, controles de acesso, criptografia quando aplicável, políticas internas de segurança, gestão de perfis de usuários, registros de logs e programas de capacitação de colaboradores. Embora empreguemos nossos melhores esforços para proteger as informações, nenhum sistema é totalmente imune a incidentes, motivo pelo qual mantemos procedimentos para resposta e mitigação de riscos, incluindo comunicação aos titulares e à autoridade competente, quando exigido pela LGPD.
+
+12. Encarregado pelo tratamento de dados pessoais (DPO)
+
+Para fins de comunicação sobre qualquer assunto relacionado a esta Política ou ao tratamento de dados pessoais, [NOME DA EMPRESA] indica como encarregado de proteção de dados (Data Protection Officer – DPO) a pessoa ou área de contato cujo e-mail e demais informações serão disponibilizados de forma clara e destacada em nossos canais oficiais. O encarregado é o canal de comunicação entre o controlador, os titulares de dados e a Autoridade Nacional de Proteção de Dados (ANPD).
+
+13. Atualizações desta Política de Privacidade
+
+Esta Política de Privacidade poderá ser alterada a qualquer tempo, para refletir mudanças legislativas, regulatórias, tecnológicas ou relativas à prestação de nossos serviços. Sempre que houver atualizações relevantes, envidaremos esforços para informar os titulares por meio dos nossos canais oficiais, destacando as principais alterações. A versão vigente estará sempre disponível em nosso site ou aplicação, com indicação da data de última atualização.
+
+Esta Política de Privacidade deve ser lida em conjunto com os demais termos e condições de uso dos serviços oferecidos por [NOME DA EMPRESA], não excluindo outras obrigações de proteção de dados pessoais previstas na legislação brasileira.

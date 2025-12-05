@@ -1,0 +1,25 @@
+================================================================================
+RELATORIO DE METRICAS - CLASSIFICADOR LGPD
+================================================================================
+
+Acuracia Final (Validacao): 0.7930
+Loss Final (Validacao): 1.3093
+
+                  precision    recall  f1-score   support
+
+      alteracoes       0.87      0.87      0.87        15
+   armazenamento       0.83      0.62      0.71        16
+    coleta_dados       0.93      0.68      0.79        19
+compartilhamento       0.70      0.89      0.78        18
+         contato       0.88      0.88      0.88        16
+         cookies       0.93      0.87      0.90        15
+        criancas       0.87      1.00      0.93        20
+direitos_titular       0.65      0.96      0.77        23
+      finalidade       0.62      0.86      0.72        21
+   internacional       1.00      0.80      0.89        15
+          outros       1.00      0.25      0.40        12
+       seguranca       0.88      0.54      0.67        13
+
+        accuracy                           0.79       203
+       macro avg       0.85      0.77      0.77       203
+    weighted avg       0.83      0.79      0.78       203

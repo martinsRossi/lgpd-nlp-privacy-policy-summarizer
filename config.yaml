@@ -1,0 +1,99 @@
+# Configuração do Sistema de Sumarização LGPD
+
+# Configurações Gerais
+projeto:
+  nome: "Sumarização Automática de Políticas de Privacidade LGPD"
+  versao: "1.0.0"
+  autor: "TCC - Anchieta"
+  ano: 2025
+
+# Configurações de Processamento
+processamento:
+  idioma: "portuguese"
+  remover_stopwords: false
+  aplicar_stemming: false
+  remover_pontuacao: false
+
+# Configurações de Classificação LGPD
+classificacao:
+  modelo_tipo: "logistic"  # naive_bayes, logistic, random_forest
+  usar_regras_fallback: true
+  confianca_minima: 0.5
+
+# Configurações de Sumarização Extrativa
+sumarizacao_extrativa:
+  metodo_padrao: "textrank"  # textrank, lexrank, lsa
+  taxa_reducao: 0.3
+  usar_tfidf: true
+
+# Configurações de Sumarização Abstrativa
+sumarizacao_abstrativa:
+  modelo: "t5-small"  # t5-small, t5-base, gpt2
+  max_length: 150
+  min_length: 40
+  num_beams: 4
+  dispositivo: "auto"  # cpu, cuda, auto
+
+# Configurações de Simplificação
+simplificacao:
+  usar_modelo: false
+  preservar_termos_tecnicos: false
+
+# Configurações de Avaliação
+avaliacao:
+  incluir_bleu: true
+  incluir_rouge: true
+  salvar_relatorios: true
+
+# Configurações de Treinamento
+treinamento:
+  num_epocas: 10
+  test_size: 0.2
+  validation_size: 0.1
+  random_state: 42
+  salvar_graficos: true
+  salvar_modelo: true
+
+# Diretórios
+diretorios:
+  dados: "data"
+  modelos: "models"
+  logs: "logs"
+  outputs: "outputs"
+  figuras: "docs/figuras"
+
+# Logging
+logging:
+  nivel: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  formato: "<green>{time:YYYY-MM-DD HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{name}</cyan>:<cyan>{function}</cyan> - <level>{message}</level>"
+  salvar_arquivo: true
+  rotacao: "10 MB"
+
+# Interface Streamlit
+interface:
+  titulo: "Sumarizador de Políticas de Privacidade LGPD"
+  tema: "light"
+  sidebar_inicial: "expanded"
+  largura: "wide"
+
+# Categorias LGPD
+categorias_lgpd:
+  - coleta_dados
+  - finalidade
+  - compartilhamento
+  - armazenamento
+  - seguranca
+  - direitos_titular
+  - cookies
+  - internacional
+  - criancas
+  - contato
+  - alteracoes
+  - outros
+
+# Métricas de Aceite (Critérios do Professor)
+criterios_aceite:
+  acuracia_minima: 0.80
+  f1_score_minimo: 0.75
+  convergencia_threshold: 0.05
+  num_categorias_f1: 3

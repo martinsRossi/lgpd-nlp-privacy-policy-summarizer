@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Logs
+*.log
+logs/*.log
+
+# Dados temporários
+outputs/*.txt
+outputs/*.json
+outputs/*.csv
+!outputs/.gitkeep
+
+# Modelos treinados (muito grandes)
+models/*.pkl
+models/*.pt
+models/*.h5
+!models/.gitkeep
+
+# Cache de transformers
+.cache/
+transformers_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Backup
+*.tar.gz
+*.zip
+backup_*/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Dados sensíveis
+.env
+*.key
+*.pem
+secrets/

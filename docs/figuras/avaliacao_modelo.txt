@@ -1,0 +1,105 @@
+================================================================================
+RELATÓRIO DE TREINAMENTO E AVALIAÇÃO DO MODELO
+================================================================================
+
+Data/Hora: 2025-12-05T17:49:17.435932
+
+--- INFORMAÇÕES DE TREINAMENTO ---
+Número de Épocas: 50
+Melhor Época: 50
+Tempo Total: 0.50s
+Tempo Médio por Época: 0.01s
+Convergiu: Sim
+
+--- MÉTRICAS GLOBAIS ---
+Acurácia (Teste): 0.7548
+Acurácia Treino (Final): 0.8548
+Acurácia Validação (Final): 0.7548
+Loss Treino (Final): 0.1452
+Loss Validação (Final): 0.2452
+
+--- MÉTRICAS POR CLASSE ---
+
+Classe: alteracoes
+  Precisão: 0.8571
+  Recall: 0.8000
+  F1-Score: 0.8276
+  Suporte: 15.0
+
+Classe: armazenamento
+  Precisão: 1.0000
+  Recall: 0.6250
+  F1-Score: 0.7692
+  Suporte: 16.0
+
+Classe: coleta_dados
+  Precisão: 0.8750
+  Recall: 0.7000
+  F1-Score: 0.7778
+  Suporte: 20.0
+
+Classe: compartilhamento
+  Precisão: 0.8333
+  Recall: 0.8333
+  F1-Score: 0.8333
+  Suporte: 18.0
+
+Classe: contato
+  Precisão: 0.9167
+  Recall: 0.6875
+  F1-Score: 0.7857
+  Suporte: 16.0
+
+Classe: cookies
+  Precisão: 1.0000
+  Recall: 0.6667
+  F1-Score: 0.8000
+  Suporte: 15.0
+
+Classe: criancas
+  Precisão: 1.0000
+  Recall: 0.9500
+  F1-Score: 0.9744
+  Suporte: 20.0
+
+Classe: direitos_titular
+  Precisão: 0.4717
+  Recall: 0.9615
+  F1-Score: 0.6329
+  Suporte: 26.0
+
+Classe: finalidade
+  Precisão: 0.6000
+  Recall: 0.9545
+  F1-Score: 0.7368
+  Suporte: 22.0
+
+Classe: internacional
+  Precisão: 1.0000
+  Recall: 0.6667
+  F1-Score: 0.8000
+  Suporte: 15.0
+
+Classe: outros
+  Precisão: 1.0000
+  Recall: 0.3333
+  F1-Score: 0.5000
+  Suporte: 12.0
+
+Classe: seguranca
+  Precisão: 0.8571
+  Recall: 0.4615
+  F1-Score: 0.6000
+  Suporte: 13.0
+
+Classe: macro avg
+  Precisão: 0.8676
+  Recall: 0.7200
+  F1-Score: 0.7531
+  Suporte: 208.0
+
+Classe: weighted avg
+  Precisão: 0.8396
+  Recall: 0.7548
+  F1-Score: 0.7587
+  Suporte: 208.0
