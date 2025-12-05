@@ -483,12 +483,6 @@ Ano: 2025
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo `LICENSE` para detalhes.
-
----
-
 ## Observações Importantes
 
 Este sistema foi desenvolvido com propósito educacional e de pesquisa acadêmica. As sumarizações geradas são automatizadas e devem ser utilizadas como material complementar, não substituindo a leitura integral das políticas de privacidade originais. Para questões jurídicas específicas, recomenda-se consultar profissionais especializados em direito digital e proteção de dados.
